@@ -30,7 +30,7 @@ while current_date < end_date:
 	data_raw_filename = '%s/%s-%s%s%s%s'%(data_dir, stasiun, tahun, bulan, hari, jam)
 	print('processing %s'%(data_raw_filename))
 
-	data_input = np.zeros((len(indexkeyword)))
+	data_input = np.zeros((len(indexkeyword)*2))
 	data_input[:] = np.nan
 
 	try:
@@ -52,8 +52,6 @@ while current_date < end_date:
 
 	data_raw_array = data_raw.split('\n')
 	for i in range(len(indexkeyword)):
-		parameter_array = np.zeros((len(indexkeyword)))
-		parameter_array[:] = np.nan
 		for j in range(len(data_raw_array)):
 			if indexkeyword[i] in data_raw_array[j][:8]:
 				try:
@@ -62,7 +60,8 @@ while current_date < end_date:
 					suhu_float = float(suhu)
 					dew_point_float = float(dew_point)
 					selisih = suhu_float - dew_point_float
-					data_input[i] = selisih
+					data_input[i*2] = suhu_float
+					data_input[i*2+1] = dew_point_float
 				except ValueError:
 					break
 	print(data_input)
@@ -71,4 +70,4 @@ while current_date < end_date:
 
 #save
 all_param = np.array(all_param)
-np.save('index_param_selisih_suhu_td.npy', all_param)
+np.save('index_param_suhu_td.npy', all_param)
