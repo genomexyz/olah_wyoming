@@ -8,8 +8,8 @@ data_dir = 'raw'
 indexkeyword = ['Convective Available Potential Energy:', 'K index:', 'Cross totals index:', 'Vertical totals index:', 
 'Lifted index:', 'Showalter index:']
 failkeyword = ["Can't get"]
-start_date = datetime(2016,1,1)
-end_date = datetime(2019,1,1)
+start_date = datetime(2019,1,1)
+end_date = datetime(2020,1,1)
 thresholdlen = 100
 stasiun = 'WAAA'
 
@@ -68,4 +68,4 @@ while current_date < end_date:
 
 #save
 all_param = np.array(all_param)
-np.save('index_param.npy', all_param)
+np.save('index_param_2019.npy', all_param)

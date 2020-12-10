@@ -7,8 +7,8 @@ from datetime import datetime, timedelta
 data_dir = 'label_raw'
 stasiun = 'WAAA'
 limit_sandi = ['TEMPO', 'BECMG']
-start_date = datetime(2016,1,1)
-end_date = datetime(2019,1,1)
+start_date = datetime(2019,1,1)
+end_date = datetime(2020,1,1)
 
 def make_array_from_raw(raw_str):
 	array = raw_str.split('\n')
@@ -34,7 +34,7 @@ all_label = []
 all_label_pandas = []
 while current_date < end_date:
 	#end_period = current_date + timedelta(hours = 12)
-	end_period = current_date + timedelta(hours = 6)
+	end_period = current_date + timedelta(hours = 12)
 	status_hujan = np.nan
 	while current_date < end_period:
 		#build date string for indentifier in the raw data
@@ -76,9 +76,9 @@ while current_date < end_date:
 	all_label.append(status_hujan)
 	
 	#for 6-hour scheme
-	current_date += timedelta(hours = 6)
-	print('after', current_date)
+#	current_date += timedelta(hours = 6)
+#	print('after', current_date)
 
 #save
 all_label = np.array(all_label)
-np.save('hujan_label_6_jam.npy', all_label)
+np.save('hujan_label_2019.npy', all_label)

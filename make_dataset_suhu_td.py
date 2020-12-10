@@ -7,8 +7,8 @@ from datetime import datetime, timedelta
 data_dir = 'raw'
 indexkeyword = ['1000', '850', '700', '500']
 failkeyword = ["Can't get"]
-start_date = datetime(2016,1,1)
-end_date = datetime(2019,1,1)
+start_date = datetime(2019,1,1)
+end_date = datetime(2020,1,1)
 thresholdlen = 100
 stasiun = 'WAAA'
 
@@ -70,4 +70,4 @@ while current_date < end_date:
 
 #save
 all_param = np.array(all_param)
-np.save('index_param_suhu_td.npy', all_param)
+np.save('index_param_suhu_td_2019.npy', all_param)
