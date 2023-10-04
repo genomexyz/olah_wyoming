@@ -1,0 +1,70 @@
+2022-04-02 00
+<HTML>
+<TITLE>University of Wyoming - Radiosonde Data</TITLE>
+<BODY BGCOLOR="white">
+<H2>96749 WIII Jakarta Observations at 00Z 02 Apr 2022</H2>
+<PRE>
+-----------------------------------------------------------------------------
+   PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
+    hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
+-----------------------------------------------------------------------------
+ 1009.0      8   26.0   23.8     88  18.80    200      3  298.4  353.3  301.7
+ 1000.0     90   26.0   22.6     82  17.61    220      7  299.1  350.7  302.3
+  977.0    296   25.0   21.3     80  16.64    220     12  300.2  349.1  303.2
+  925.0    779   22.8   18.3     76  14.52    240     13  302.6  345.8  305.2
+  917.0    855   22.8   17.8     73  14.19    245     13  303.4  345.7  305.9
+  850.0   1511   18.4   13.8     75  11.80    285     12  305.4  341.0  307.6
+  822.0   1798   16.4   14.6     89  12.83    305     13  306.2  344.9  308.5
+  820.0   1819   16.2   14.6     90  12.91    304     13  306.2  345.2  308.6
+  765.0   2406   13.6   10.1     80  10.26    275     14  309.5  341.1  311.4
+  739.0   2698   12.3    7.9     75   9.13    285     12  311.2  339.6  312.9
+  722.0   2895   11.4    6.4     71   8.42                312.3  338.7  313.9
+</PRE><H3>Station information and sounding indices</H3><PRE>
+                         Station identifier: WIII
+                             Station number: 96749
+                           Observation time: 220402/0000
+                           Station latitude: -6.11
+                          Station longitude: 106.65
+                          Station elevation: 8.0
+      Convective Available Potential Energy: 2.42
+             CAPE using virtual temperature: 19.09
+                      Convective Inhibition: -65.85
+             CINS using virtual temperature: -47.95
+                   Level of Free Convection: 820.05
+             LFCT using virtual temperature: 832.76
+  Temp [K] of the Lifted Condensation Level: 293.91
+Pres [hPa] of the Lifted Condensation Level: 931.26
+   Equivalent potential temp [K] of the LCL: 349.49
+     Mean mixed layer potential temperature: 299.96
+              Mean mixed layer mixing ratio: 16.90
+Precipitable water [mm] for entire sounding: 38.37
+</PRE>
+<P>Description of the 
+<A HREF="/upperair/columns.html">data columns</A>
+or <A HREF="/upperair/indices.html">sounding indices</A>.
+
+<P>
+<FORM>
+<INPUT CLASS="button" TYPE="button" VALUE=" Close this window " 
+ onClick="window.close();">
+<INPUT CLASS="button" TYPE="button" VALUE=" Select another map " 
+ onClick="window.blur();">
+</FORM>
+<HR SIZE="1">
+<I>Interested in graduate studies in atmospheric science?
+Check out our program at the
+<a href="http://www.uwyo.edu/atsc/howtoapply/"
+target=_top>University of Wyoming
+</a></I>
+<HR SIZE="1"><FONT SIZE="-1">
+Questions about the weather data provided by this site can be
+addressed to <A HREF="mailto:ldoolman@uwyo.edu">
+Larry Oolman (ldoolman@uwyo.edu)</A></FONT>
+<HR SIZE="1">
+<SCRIPT TYPE="text/javascript">
+<!--
+window.focus();
+// -->
+</SCRIPT>
+</BODY>
+</HTML>

@@ -1,0 +1,65 @@
+2020-03-01 12
+<HTML>
+<TITLE>University of Wyoming - Radiosonde Data</TITLE>
+<BODY BGCOLOR="white">
+<H2>96749 WIII Jakarta Observations at 00Z 01 Mar 2020</H2>
+<PRE>
+-----------------------------------------------------------------------------
+   PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
+    hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
+-----------------------------------------------------------------------------
+ 1008.0      8   25.8   24.8     94  20.02    210      3  298.3  356.8  301.8
+  969.0    423    4.8                         325      9  280.4         280.4
+  887.0   1354  -42.3                         330     13  238.9         238.9
+  884.0   1390  -44.1                         328     13  237.3         237.3
+  822.0   1994  -82.9                         291     12  201.2         201.2
+  807.0   2133  -81.1                         282     12  204.2         204.2
+  796.0   2238  -80.8                         275     12  205.3         205.3
+  751.0   2683  -79.3                         300     11  210.4         210.4
+  700.0   3223  -79.1                         330     10  214.9         214.9
+  679.0   3396  -78.9                         340     10  216.9         216.9
+  675.0   3430  -78.9                         340     10  217.3         217.3
+  644.0   3698  -77.9                         340     11  221.4         221.4
+  612.0   3990  -76.9                         301      8  225.8         225.8
+  585.0   4248  -77.5                         267      5  228.0         228.0
+  580.0   4297  -78.1                         260      4  227.9         227.9
+  550.0   4595  -81.7                         260      4  227.1         227.1
+  525.0   4856  -84.9                                     226.3         226.3
+</PRE><H3>Station information and sounding indices</H3><PRE>
+                         Station identifier: WIII
+                             Station number: 96749
+                           Observation time: 200301/0000
+                           Station latitude: -6.11
+                          Station longitude: 106.65
+                          Station elevation: 8.0
+     Mean mixed layer potential temperature: 287.58
+</PRE>
+<P>Description of the 
+<A HREF="/upperair/columns.html">data columns</A>
+or <A HREF="/upperair/indices.html">sounding indices</A>.
+
+<P>
+<FORM>
+<INPUT CLASS="button" TYPE="button" VALUE=" Close this window " 
+ onClick="window.close();">
+<INPUT CLASS="button" TYPE="button" VALUE=" Select another map " 
+ onClick="window.blur();">
+</FORM>
+<HR SIZE="1">
+<I>Interested in graduate studies in atmospheric science?
+Check out our program at the
+<a href="http://www.uwyo.edu/atsc/howtoapply/"
+target=_top>University of Wyoming
+</a></I>
+<HR SIZE="1"><FONT SIZE="-1">
+Questions about the weather data provided by this site can be
+addressed to <A HREF="mailto:ldoolman@uwyo.edu">
+Larry Oolman (ldoolman@uwyo.edu)</A></FONT>
+<HR SIZE="1">
+<SCRIPT TYPE="text/javascript">
+<!--
+window.focus();
+// -->
+</SCRIPT>
+</BODY>
+</HTML>

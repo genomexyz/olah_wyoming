@@ -1,0 +1,89 @@
+2018-10-19 12
+<HTML>
+<TITLE>University of Wyoming - Radiosonde Data</TITLE>
+<BODY BGCOLOR="white">
+<H2>96749 WIII Jakarta Observations at 00Z 19 Oct 2018</H2>
+<PRE>
+-----------------------------------------------------------------------------
+   PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
+    hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
+-----------------------------------------------------------------------------
+ 1011.0      8   24.6   21.5     83  16.25    210      1  296.8  343.9  299.7
+ 1002.0     87   24.0   20.9     83  15.79    185      8  297.0  342.8  299.8
+ 1000.0    105   24.0   20.8     82  15.73    180      9  297.1  342.8  299.9
+  979.0    293   25.2   20.2     74  15.47    147     11  300.2  345.7  302.9
+  978.0    302   25.1   20.2     74  15.47    145     11  300.2  345.7  303.0
+  945.0    605   23.2   19.4     79  15.24     95     10  301.2  346.2  303.9
+  925.0    794   22.0   18.9     83  15.09    105     11  301.8  346.5  304.5
+  896.0   1071   21.2   15.2     69  12.27    112      8  303.7  340.5  306.0
+  883.0   1197   20.3   14.5     70  11.92    115      6  304.0  339.8  306.2
+  853.0   1496   18.0   13.0     72  11.12      0      0  304.7  338.2  306.8
+  850.0   1526   17.8   12.8     73  11.04    205      1  304.8  338.1  306.8
+  821.0   1823   15.4   11.8     79  10.70    151      4  305.3  337.6  307.2
+  767.0   2393   12.2    5.9     65   7.65     45     11  307.9  331.5  309.3
+  740.0   2693   10.6    2.8     59   6.37     40     14  309.2  329.1  310.4
+  700.0   3159    8.0   -2.0     49   4.74     50     10  311.3  326.5  312.2
+  686.0   3325    7.2   -2.8     49   4.56     57     11  312.2  326.9  313.1
+  659.0   3655    5.4   -2.6     56   4.82     71     13  313.8  329.3  314.7
+  657.0   3680    5.8   -5.2     45   3.97     72     13  314.5  327.5  315.3
+  648.0   3793    6.6  -20.4     12   1.17     77     14  316.7  320.8  316.9
+  641.0   3882    5.6  -11.4     28   2.51     81     14  316.5  325.0  317.0
+  634.0   3971    5.4  -20.6     13   1.18     85     15  317.3  321.4  317.5
+  616.0   4206    3.8  -17.7     19   1.55     95     16  318.1  323.4  318.4
+  614.0   4232    3.6  -17.4     20   1.60     95     16  318.1  323.7  318.4
+  600.0   4419    2.2   -9.8     41   3.04     95     15  318.6  328.8  319.2
+  596.0   4473    2.6  -19.4     18   1.39     95     15  319.7  324.6  320.0
+  594.0   4500    2.4  -17.0     22   1.71     95     15  319.7  325.7  320.1
+  587.0   4595    1.6   -8.4     47   3.47                319.9  331.6  320.6
+  582.0   4664    2.2  -13.8     30   2.27                321.4  329.2  321.9
+  573.0   4790    1.2  -14.8     29   2.13                321.7  329.0  322.1
+</PRE><H3>Station information and sounding indices</H3><PRE>
+                         Station identifier: WIII
+                             Station number: 96749
+                           Observation time: 181019/0000
+                           Station latitude: -6.11
+                          Station longitude: 106.65
+                          Station elevation: 8.0
+      Convective Available Potential Energy: 39.95
+             CAPE using virtual temperature: 123.56
+                      Convective Inhibition: -92.21
+             CINS using virtual temperature: -74.95
+                           Equilibrum Level: 585.48
+                   Level of Free Convection: 787.39
+             LFCT using virtual temperature: 822.70
+  Temp [K] of the Lifted Condensation Level: 292.55
+Pres [hPa] of the Lifted Condensation Level: 925.63
+   Equivalent potential temp [K] of the LCL: 344.66
+     Mean mixed layer potential temperature: 299.10
+              Mean mixed layer mixing ratio: 15.59
+Precipitable water [mm] for entire sounding: 39.34
+</PRE>
+<P>Description of the 
+<A HREF="/upperair/columns.html">data columns</A>
+or <A HREF="/upperair/indices.html">sounding indices</A>.
+
+<P>
+<FORM>
+<INPUT CLASS="button" TYPE="button" VALUE=" Close this window " 
+ onClick="window.close();">
+<INPUT CLASS="button" TYPE="button" VALUE=" Select another map " 
+ onClick="window.blur();">
+</FORM>
+<HR SIZE="1">
+<I>Interested in graduate studies in atmospheric science?
+Check out our program at the
+<a href="http://www.uwyo.edu/atsc/howtoapply/"
+target=_top>University of Wyoming
+</a></I>
+<HR SIZE="1"><FONT SIZE="-1">
+Questions about the weather data provided by this site can be
+addressed to <A HREF="mailto:ldoolman@uwyo.edu">
+Larry Oolman (ldoolman@uwyo.edu)</A></FONT>
+<HR SIZE="1">
+<SCRIPT TYPE="text/javascript">
+<!--
+window.focus();
+// -->
+</SCRIPT>
+</BODY>
+</HTML>

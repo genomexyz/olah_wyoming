@@ -53,8 +53,6 @@ while current_date < end_date:
 		continue
 		
 	raw_data = file_raw.read()
-	
-	current_date += timedelta(minutes = 30)
 	date_array, sandi_array = make_array_from_raw(raw_data)
 		
 	try:

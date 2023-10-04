@@ -1,0 +1,81 @@
+2016-06-27 12
+<HTML>
+<TITLE>University of Wyoming - Radiosonde Data</TITLE>
+<BODY BGCOLOR="white">
+<H2>96749 WIII Jakarta Observations at 00Z 27 Jun 2016</H2>
+<PRE>
+-----------------------------------------------------------------------------
+   PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
+    hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
+-----------------------------------------------------------------------------
+ 1011.0      8   24.8   23.5     92  18.42    250     10  297.0  350.5  300.3
+ 1000.0     98   24.2   22.3     89  17.28    235     13  297.4  347.6  300.4
+  983.0    249   22.8   21.6     93  16.83    238     15  297.4  346.3  300.4
+  958.0    475   23.2   20.6     85  16.23    243     17  300.0  347.7  302.9
+  945.0    595   22.6   19.9     84  15.70    245     18  300.6  346.9  303.4
+  925.0    782   21.8   18.7     83  14.90    240     10  301.6  345.7  304.3
+  913.0    895   21.2   18.1     82  14.50    220      8  302.2  345.2  304.8
+  882.0   1195   19.8   16.4     81  13.48    175      8  303.7  343.9  306.1
+  857.0   1444   18.6   15.0     80  12.67    212      7  304.9  343.0  307.2
+  852.0   1495   18.2   14.6     80  12.45    220      7  305.0  342.4  307.2
+  850.0   1515   18.0   14.5     80  12.36    225      7  305.0  342.2  307.2
+  793.0   2103   13.4   11.9     91  11.16    230      6  306.2  340.0  308.2
+  766.0   2394   12.5    8.1     74   8.89    180      5  308.2  335.6  309.9
+  752.0   2548   12.0    6.0     67   7.86    165      6  309.3  333.7  310.8
+  748.0   2593   12.4   -0.6     41   4.92    160      7  310.2  325.9  311.2
+  735.0   2739   12.8  -12.2     16   2.05    146      8  312.2  319.1  312.6
+  723.0   2876   11.8  -11.2     19   2.26    133      9  312.6  320.2  313.1
+  712.0   3003   10.5   -2.8     39   4.38    120     10  312.6  326.7  313.4
+  706.0   3073    9.8    1.8     57   6.21    115     11  312.5  332.2  313.7
+  700.0   3144    9.4    4.4     71   7.55    110     13  312.9  336.6  314.3
+  662.0   3604    6.0    1.9     75   6.66    135     14  314.1  335.2  315.4
+  651.0   3742    5.0    1.1     76   6.41                314.4  334.9  315.7
+</PRE><H3>Station information and sounding indices</H3><PRE>
+                         Station identifier: WIII
+                             Station number: 96749
+                           Observation time: 160627/0000
+                           Station latitude: -6.11
+                          Station longitude: 106.65
+                          Station elevation: 8.0
+      Convective Available Potential Energy: 40.96
+             CAPE using virtual temperature: 82.42
+                      Convective Inhibition: -58.85
+             CINS using virtual temperature: -47.03
+                   Level of Free Convection: 821.25
+             LFCT using virtual temperature: 831.48
+  Temp [K] of the Lifted Condensation Level: 294.39
+Pres [hPa] of the Lifted Condensation Level: 957.28
+   Equivalent potential temp [K] of the LCL: 347.34
+     Mean mixed layer potential temperature: 298.10
+              Mean mixed layer mixing ratio: 16.92
+Precipitable water [mm] for entire sounding: 41.23
+</PRE>
+<P>Description of the 
+<A HREF="/upperair/columns.html">data columns</A>
+or <A HREF="/upperair/indices.html">sounding indices</A>.
+
+<P>
+<FORM>
+<INPUT CLASS="button" TYPE="button" VALUE=" Close this window " 
+ onClick="window.close();">
+<INPUT CLASS="button" TYPE="button" VALUE=" Select another map " 
+ onClick="window.blur();">
+</FORM>
+<HR SIZE="1">
+<I>Interested in graduate studies in atmospheric science?
+Check out our program at the
+<a href="http://www.uwyo.edu/atsc/howtoapply/"
+target=_top>University of Wyoming
+</a></I>
+<HR SIZE="1"><FONT SIZE="-1">
+Questions about the weather data provided by this site can be
+addressed to <A HREF="mailto:ldoolman@uwyo.edu">
+Larry Oolman (ldoolman@uwyo.edu)</A></FONT>
+<HR SIZE="1">
+<SCRIPT TYPE="text/javascript">
+<!--
+window.focus();
+// -->
+</SCRIPT>
+</BODY>
+</HTML>

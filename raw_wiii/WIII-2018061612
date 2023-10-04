@@ -1,0 +1,78 @@
+2018-06-16 12
+<HTML>
+<TITLE>University of Wyoming - Radiosonde Data</TITLE>
+<BODY BGCOLOR="white">
+<H2>96749 WIII Jakarta Observations at 00Z 16 Jun 2018</H2>
+<PRE>
+-----------------------------------------------------------------------------
+   PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
+    hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
+-----------------------------------------------------------------------------
+ 1011.0      8   24.0   22.4     91  17.20    210      2  296.2  345.9  299.3
+ 1001.0     96   25.6   22.5     83  17.48    151      5  298.7  349.8  301.8
+ 1000.0    105   25.8   22.7     83  17.72    145      5  298.9  350.8  302.1
+  987.0    220   25.8   21.6     78  16.76    104      6  300.1  349.4  303.1
+  978.0    300   25.2   21.4     80  16.71     75      7  300.2  349.4  303.2
+  935.0    694   22.0   20.4     91  16.42     67      9  300.9  349.3  303.8
+  925.0    787   21.6   19.5     88  15.68     65      9  301.4  347.8  304.2
+  852.0   1494   18.3   14.0     76  11.90     65      4  305.1  340.9  307.3
+  850.0   1514   18.2   13.8     75  11.80     70      4  305.2  340.8  307.4
+  823.0   1787   16.8   11.8     72  10.65     70      2  306.5  338.9  308.5
+  794.0   2089   15.2    9.5     69   9.48    205      1  308.0  337.0  309.7
+  766.0   2392   13.6    7.3     66   8.42     80      1  309.4  335.5  311.0
+  739.0   2695   12.0    5.0     62   7.46    290      4  310.9  334.2  312.3
+  700.0   3153    9.6    1.6     57   6.18    290      4  313.1  332.7  314.2
+  693.0   3236    9.6    0.6     53   5.80    278      3  314.0  332.5  315.1
+  688.0   3296    9.2    0.1     53   5.61    270      3  314.2  332.2  315.3
+  663.0   3599    7.2   -2.8     49   4.73    250      4  315.3  330.6  316.2
+  616.0   4201    3.2   -8.4     42   3.32    295      6  317.3  328.4  318.0
+  603.0   4375    2.0  -10.0     41   2.98                317.9  327.9  318.5
+</PRE><H3>Station information and sounding indices</H3><PRE>
+                         Station identifier: WIII
+                             Station number: 96749
+                           Observation time: 180616/0000
+                           Station latitude: -6.11
+                          Station longitude: 106.65
+                          Station elevation: 8.0
+      Convective Available Potential Energy: 66.04
+             CAPE using virtual temperature: 138.53
+                      Convective Inhibition: -44.23
+             CINS using virtual temperature: -24.53
+                   Level of Free Convection: 770.26
+             LFCT using virtual temperature: 833.54
+  Temp [K] of the Lifted Condensation Level: 294.06
+Pres [hPa] of the Lifted Condensation Level: 937.00
+   Equivalent potential temp [K] of the LCL: 349.20
+     Mean mixed layer potential temperature: 299.59
+              Mean mixed layer mixing ratio: 16.93
+Precipitable water [mm] for entire sounding: 43.08
+</PRE>
+<P>Description of the 
+<A HREF="/upperair/columns.html">data columns</A>
+or <A HREF="/upperair/indices.html">sounding indices</A>.
+
+<P>
+<FORM>
+<INPUT CLASS="button" TYPE="button" VALUE=" Close this window " 
+ onClick="window.close();">
+<INPUT CLASS="button" TYPE="button" VALUE=" Select another map " 
+ onClick="window.blur();">
+</FORM>
+<HR SIZE="1">
+<I>Interested in graduate studies in atmospheric science?
+Check out our program at the
+<a href="http://www.uwyo.edu/atsc/howtoapply/"
+target=_top>University of Wyoming
+</a></I>
+<HR SIZE="1"><FONT SIZE="-1">
+Questions about the weather data provided by this site can be
+addressed to <A HREF="mailto:ldoolman@uwyo.edu">
+Larry Oolman (ldoolman@uwyo.edu)</A></FONT>
+<HR SIZE="1">
+<SCRIPT TYPE="text/javascript">
+<!--
+window.focus();
+// -->
+</SCRIPT>
+</BODY>
+</HTML>

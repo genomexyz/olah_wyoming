@@ -5,10 +5,10 @@ from datetime import datetime, timedelta
 
 #setting
 data_dir = 'label_raw'
-stasiun = 'WAAA'
+stasiun = 'WAFF'
 limit_sandi = ['TEMPO', 'BECMG']
-start_date = datetime(2019,1,1)
-end_date = datetime(2020,1,1)
+start_date = datetime(2021,1,1)
+end_date = datetime(2022,1,1)
 
 def make_array_from_raw(raw_str):
 	array = raw_str.split('\n')
@@ -59,7 +59,7 @@ while current_date < end_date:
 		try:
 			idx = date_array.index(identifier_date_str)
 			focused_sandi = sandi_array[idx]
-			if 'TS' in focused_sandi:
+			if 'RA' in focused_sandi:
 				status_hujan = 1
 			else:
 				if np.isnan(status_hujan):
@@ -81,4 +81,4 @@ while current_date < end_date:
 
 #save
 all_label = np.array(all_label)
-np.save('hujan_label_2019.npy', all_label)
+np.save('waff_2021.npy', all_label)

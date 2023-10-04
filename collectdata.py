@@ -7,7 +7,7 @@ import sys
 
 #setting
 link = 'http://weather.uwyo.edu/cgi-bin/sounding?'
-savedatadir = 'raw'
+savedatadir = 'raw_wiii'
 stasiunfile = 'stasiun.dat'
 failkeyword = "Can't get"
 TYPE = 'TEXT%3ALIST'

@@ -34,10 +34,14 @@ t = ContentCallback()
 curlObj = pycurl.Curl()
 curlObj.setopt(curlObj.URL, query)
 curlObj.setopt(curlObj.WRITEFUNCTION, t.content_callback)
+curlObj.setopt(curlObj.HTTPHEADER, ['Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9'])
+curlObj.setopt(curlObj.USERAGENT, 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36')
+curlObj.setopt(pycurl.ENCODING, "gzip,deflate")
 curlObj.perform()
 curlObj.close()
 
 dataall = t.contents
+print('cek data', dataall)
 savedata.write(dataall)
 savedata.close()
 

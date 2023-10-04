@@ -1,0 +1,84 @@
+2019-07-19 00
+<HTML>
+<TITLE>University of Wyoming - Radiosonde Data</TITLE>
+<BODY BGCOLOR="white">
+<H2>96749 WIII Jakarta Observations at 00Z 19 Jul 2019</H2>
+<PRE>
+-----------------------------------------------------------------------------
+   PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
+    hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
+-----------------------------------------------------------------------------
+ 1009.0      8   24.4   20.9     81  15.68    270      2  296.8  342.2  299.6
+ 1000.0     86   27.4   22.4     74  17.39    200      3  300.6  351.8  303.7
+  925.0    778   25.4   22.8     86  19.32     90     19  305.3  363.4  308.8
+  850.0   1521   20.8   18.5     87  16.04     75     22  307.9  356.7  310.9
+  700.0   3175   12.6  -14.4     14   1.80     55     30  316.4  322.6  316.8
+  500.0   5910   -6.1  -22.1     27   1.31    120     15  325.5  330.3  325.8
+  400.0   7620  -14.1  -42.1      7   0.24     55     22  336.6  337.6  336.6
+  300.0   9740  -30.1  -46.1     20   0.20     70     16  342.8  343.7  342.9
+  250.0  11010  -40.3                         350     11  346.0         346.0
+  200.0  12490  -52.9                          20     27  348.8         348.8
+  150.0  14280  -65.1                          40     40  357.7         357.7
+  100.0  16630  -82.7                          45     21  367.7         367.7
+</PRE><H3>Station information and sounding indices</H3><PRE>
+                         Station identifier: WIII
+                             Station number: 96749
+                           Observation time: 190719/0000
+                           Station latitude: -6.11
+                          Station longitude: 106.65
+                          Station elevation: 8.0
+                            Showalter index: -5.29
+                               Lifted index: -4.35
+    LIFT computed using virtual temperature: -5.25
+                                SWEAT index: 331.01
+                                    K index: 18.40
+                         Cross totals index: 24.60
+                      Vertical totals index: 26.90
+                        Totals totals index: 51.50
+      Convective Available Potential Energy: 1102.19
+             CAPE using virtual temperature: 1318.23
+                      Convective Inhibition: -205.44
+             CINS using virtual temperature: -138.82
+                           Equilibrum Level: 173.28
+ Equilibrum Level using virtual temperature: 172.34
+                   Level of Free Convection: 657.87
+             LFCT using virtual temperature: 732.41
+                     Bulk Richardson Number: 32.42
+          Bulk Richardson Number using CAPV: 38.77
+  Temp [K] of the Lifted Condensation Level: 294.51
+Pres [hPa] of the Lifted Condensation Level: 922.02
+   Equivalent potential temp [K] of the LCL: 353.75
+     Mean mixed layer potential temperature: 301.45
+              Mean mixed layer mixing ratio: 17.73
+              1000 hPa to 500 hPa thickness: 5824.00
+Precipitable water [mm] for entire sounding: 46.90
+</PRE>
+<P>Description of the 
+<A HREF="/upperair/columns.html">data columns</A>
+or <A HREF="/upperair/indices.html">sounding indices</A>.
+
+<P>
+<FORM>
+<INPUT CLASS="button" TYPE="button" VALUE=" Close this window " 
+ onClick="window.close();">
+<INPUT CLASS="button" TYPE="button" VALUE=" Select another map " 
+ onClick="window.blur();">
+</FORM>
+<HR SIZE="1">
+<I>Interested in graduate studies in atmospheric science?
+Check out our program at the
+<a href="http://www.uwyo.edu/atsc/howtoapply/"
+target=_top>University of Wyoming
+</a></I>
+<HR SIZE="1"><FONT SIZE="-1">
+Questions about the weather data provided by this site can be
+addressed to <A HREF="mailto:ldoolman@uwyo.edu">
+Larry Oolman (ldoolman@uwyo.edu)</A></FONT>
+<HR SIZE="1">
+<SCRIPT TYPE="text/javascript">
+<!--
+window.focus();
+// -->
+</SCRIPT>
+</BODY>
+</HTML>

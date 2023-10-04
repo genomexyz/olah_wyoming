@@ -1,0 +1,82 @@
+2020-02-02 00
+<HTML>
+<TITLE>University of Wyoming - Radiosonde Data</TITLE>
+<BODY BGCOLOR="white">
+<H2>96749 WIII Jakarta Observations at 00Z 02 Feb 2020</H2>
+<PRE>
+-----------------------------------------------------------------------------
+   PRES   HGHT   TEMP   DWPT   RELH   MIXR   DRCT   SKNT   THTA   THTE   THTV
+    hPa     m      C      C      %    g/kg    deg   knot     K      K      K 
+-----------------------------------------------------------------------------
+   81.0         -84.3                                     387.2         387.2
+   78.6         -81.9                                     395.5         395.5
+   74.0         -82.7                          55     27  400.7         400.7
+   71.0         -83.3                          66     26  404.2         404.2
+   70.6         -83.7                          68     25  404.0         404.0
+   70.0         -78.5                          70     25  416.1         416.1
+   69.4         -73.3                          58     23  428.3         428.3
+   69.0         -70.9                          50     22  434.2         434.2
+   66.3         -68.1                         356     12  445.2         445.2
+   66.0         -68.2                         350     11  445.6         445.6
+   60.0         -70.5                         300      9  452.8         452.8
+   52.9         -73.5                         219      9  462.4         462.4
+   51.0         -73.5                         195      9  467.3         467.3
+   49.0         -73.4                         320      5  472.8         472.8
+   46.0         -73.3                          25      8  481.6         481.6
+   45.1         -73.3                          45     10  484.4         484.4
+   44.0         -72.6                          70     13  489.6         489.6
+   40.6         -70.3                          95     27  506.7         506.7
+   38.0         -62.3                         115     39  536.8         536.8
+   37.7         -61.3                         114     39  540.5         540.5
+   35.0         -57.7                         105     36  561.4         561.4
+   33.0         -54.9                          90     24  578.4         578.4
+   31.0         -56.3                          40     12  585.1         585.1
+   30.0         -57.0                           0     11  588.7         588.7
+   29.0         -57.7                         355      8  592.4         592.4
+   27.0         -59.3                         330      9  600.2         600.2
+   26.0         -60.1                          65      5  604.4         604.4
+   24.4         -61.5                          83     27  611.5         611.5
+   23.0         -60.5                         100     47  624.7         624.7
+   20.1         -58.3                          86     60  656.0         656.0
+   19.0         -56.5                          80     65  672.1         672.1
+   14.3         -47.7                                     758.8         758.8
+   12.0         -46.3                                     802.7         802.7
+</PRE><H3>Station information and sounding indices</H3><PRE>
+                         Station identifier: WIII
+                             Station number: 96749
+                           Observation time: 200202/0000
+                           Station latitude: -6.11
+                          Station longitude: 106.65
+                          Station elevation: 8.0
+     Mean mixed layer potential temperature: 0.00
+              Mean mixed layer mixing ratio: 0.00
+</PRE>
+<P>Description of the 
+<A HREF="/upperair/columns.html">data columns</A>
+or <A HREF="/upperair/indices.html">sounding indices</A>.
+
+<P>
+<FORM>
+<INPUT CLASS="button" TYPE="button" VALUE=" Close this window " 
+ onClick="window.close();">
+<INPUT CLASS="button" TYPE="button" VALUE=" Select another map " 
+ onClick="window.blur();">
+</FORM>
+<HR SIZE="1">
+<I>Interested in graduate studies in atmospheric science?
+Check out our program at the
+<a href="http://www.uwyo.edu/atsc/howtoapply/"
+target=_top>University of Wyoming
+</a></I>
+<HR SIZE="1"><FONT SIZE="-1">
+Questions about the weather data provided by this site can be
+addressed to <A HREF="mailto:ldoolman@uwyo.edu">
+Larry Oolman (ldoolman@uwyo.edu)</A></FONT>
+<HR SIZE="1">
+<SCRIPT TYPE="text/javascript">
+<!--
+window.focus();
+// -->
+</SCRIPT>
+</BODY>
+</HTML>
